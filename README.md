@@ -1,12 +1,12 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Krysta Dennis]
+## [Assignment #Lab 09]
+## [Submission date: 11/16/24]
 ## Worked with/sources 
-* example
+* Used google to help fix an error
 * example
 * example
 * example
 ## Project Quirks/ Things that don't work
-* example
-* example
+* A few define errors
+* An error that wouldnt allow the code to run
 * example
